@@ -4,7 +4,7 @@ I'm Beomkyu from Devera and I'm instructor of Icon blockchain course.\
 If you have any questions, feel free to contact me.
 
 ### 🔭 Portfolio's I worked on..
-- First come first served dApp.
+- [First come first served dApp.](https://github.com/kangbumkyu/first_dapp)
 - Mobile Application
 - Web application
 - API Server
